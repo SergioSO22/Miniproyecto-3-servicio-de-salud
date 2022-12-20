@@ -1,0 +1,5 @@
+loa;true;
+lao;false;
+Consultorio 15;true;
+Consultorio 16;true;
+Consultorio 17;true;
