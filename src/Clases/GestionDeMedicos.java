@@ -33,7 +33,7 @@ public class GestionDeMedicos implements IGestionDeDatos {
 
     /**
      * Crea la ventana donde se obtienen los datos para crear un Medico y lo
-     * agrega a listaMedicos.
+     * agrega a listaDeMedicos.
      */
     @Override
     public void agregar() {
@@ -54,7 +54,7 @@ public class GestionDeMedicos implements IGestionDeDatos {
     }
 
     /**
-     * Actualiza los valores para nombreMedico del medico con el id que se haya
+     * Actualiza los valores para nombreDelMedico del medico con el id que se haya
      * suministrado.
      */
     @Override
@@ -71,7 +71,7 @@ public class GestionDeMedicos implements IGestionDeDatos {
     }
 
     /**
-     * Retorna un String con todos los medicos contenidos en listMedicos
+     * Retorna un String con todos los medicos contenidos en listaDeMedicos
      * @return los datos de cada medico en el atributo listaMedicos
      */
     @Override
@@ -196,7 +196,7 @@ public class GestionDeMedicos implements IGestionDeDatos {
      * Regresa el medico contenido en listaDeMedicos, en la llave idMedico.
      * @param idMedico es la llave en la cual esta almacenado el medico al que
      * desea acceder.
-     * @return el medico contenido en listaMedicos.get(idMedico)
+     * @return el medico contenido en listaDeMedicos.get(idMedico)
      */
     public Medico getMedico(int idMedico){
         return listaDeMedicos.get(idMedico);

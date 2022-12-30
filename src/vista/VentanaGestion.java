@@ -14,7 +14,7 @@ import Clases.GestionDeServiciosMedicos;
  * Esta va a ser la ventana en la que se enlace la logica de manejo de datos y 
  * el resultado en pantalla que debe obtener el usuario que interactue con el 
  * software
- * @author Jhonnier Hernandez
+ * @author Sergio Sánchez Ortiz
  */
 public class VentanaGestion extends javax.swing.JFrame {
 
