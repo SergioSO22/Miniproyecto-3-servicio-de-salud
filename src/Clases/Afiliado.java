@@ -12,9 +12,9 @@ public class Afiliado extends Persona{
     
     /**
      * Crea un afiliado y posiciona los atributos nombreDelAfiliado y dniAfiliado, 
-     * ademas de posicionar el estado en true, le asigna el id de afiliado acorde
-     * a la cantidad de afiliados en el sistema.
-     * @param nombreDelAfiliado es el valor a asignar al atributo nombreAfiliado
+     * ademas de posicionar el estado el sistema.
+     * @param nombreDelAfiliado es el vn true, le asigna el id de afiliado acorde
+     * a la cantidad de afiliados en ealor a asignar al atributo nombreAfiliado
      * @param dniAfiliado es el valor a asignar al atributo dniAfiliado
      */
     public Afiliado(String nombreDelAfiliado, int dniAfiliado){

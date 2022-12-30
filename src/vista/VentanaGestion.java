@@ -235,8 +235,8 @@ public class VentanaGestion extends javax.swing.JFrame {
                 switch(opcion2){
                     case 0 -> gestionCitas.agregar(gestionAfiliados, gestionServicios,
                             gestionMedicos, gestionConsultorios);
-                    case 1 -> gestionCitas.listar();
-                    case 2 -> jTextArea1.setText("no implementado");
+                    case 1 -> jTextArea1.setText(gestionCitas.listar());
+                    case 2 -> gestionCitas.actualizar();
                     case 3 -> gestionCitas.eliminar();
                     case 4 -> gestionCitas.generarCSV();
                 }

@@ -2,6 +2,26 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/Users/LENOVO/Desktop/miniProyecto_3V2-main/miniProyecto_3V2-main/src/Clases/CitaMedica.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/miniProyecto_3V2-main/miniProyecto_3V2-main/src/persistencia/afiliados_csv.txt</file>
+            <file>file:/C:/Users/LENOVO/Desktop/miniProyecto_3V2-main/miniProyecto_3V2-main/src/Clases/Consultorio.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/miniProyecto_3V2-main/miniProyecto_3V2-main/src/Clases/Afiliado.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/miniProyecto_3V2-main/miniProyecto_3V2-main/src/Clases/GestionDeConsultorios.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/miniProyecto_3V2-main/miniProyecto_3V2-main/src/vista/VentanaGestion.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/miniProyecto_3V2-main/miniProyecto_3V2-main/src/Clases/GestionDeAfiliados.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/miniProyecto_3V2-main/miniProyecto_3V2-main/src/Clases/Medico.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/miniProyecto_3V2-main/miniProyecto_3V2-main/src/Clases/Persona.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/miniProyecto_3V2-main/miniProyecto_3V2-main/src/persistencia/citas_csv.txt</file>
+            <file>file:/C:/Users/LENOVO/Desktop/miniProyecto_3V2-main/miniProyecto_3V2-main/src/Clases/GestionDeMedicos.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/miniProyecto_3V2-main/miniProyecto_3V2-main/src/persistencia/consultorios_csv.txt</file>
+            <file>file:/C:/Users/LENOVO/Desktop/miniProyecto_3V2-main/miniProyecto_3V2-main/src/vista/VentanaHora.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/miniProyecto_3V2-main/miniProyecto_3V2-main/src/Clases/GestionDeCitas.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/miniProyecto_3V2-main/miniProyecto_3V2-main/src/Clases/Especialista.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/miniProyecto_3V2-main/miniProyecto_3V2-main/src/persistencia/medicos_csv.txt</file>
+            <file>file:/C:/Users/LENOVO/Desktop/miniProyecto_3V2-main/miniProyecto_3V2-main/src/persistencia/servicios_csv.txt</file>
+            <file>file:/C:/Users/LENOVO/Desktop/miniProyecto_3V2-main/miniProyecto_3V2-main/src/Clases/IGestionDeDatos.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/miniProyecto_3V2-main/miniProyecto_3V2-main/src/Clases/GestionDeServiciosMedicos.java</file>
+        </group>
     </open-files>
 </project-private>

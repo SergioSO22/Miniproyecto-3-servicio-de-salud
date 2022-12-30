@@ -1,3 +1,4 @@
-cardiologia;
-radiologia;
-Nutrición;
+odontologia;
+Examen de laboratorio;
+medicina general;
+cita con especialista;

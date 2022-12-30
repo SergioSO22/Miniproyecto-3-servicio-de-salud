@@ -133,6 +133,7 @@ public class GestionDeMedicos implements IGestionDeDatos {
         } catch (IOException ex) {
             Logger.getLogger(GestionDeMedicos.class.getName()).log(Level.SEVERE, null, ex);
         }
+        System.out.println("Copiado con exito");
     }
     
     /**

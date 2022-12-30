@@ -116,9 +116,10 @@ public class GestionDeServiciosMedicos implements IGestionDeDatos{
         
         return serviciosMedicos.get(intSeleccion);
     }
+   
     
     /**
-     * Genera el archivo csv para la persistencia.
+     * Genera el archivo csv para la persistencia de los datos en formato de texto.
      */
     @Override
     public void generarCSV() {
